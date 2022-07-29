@@ -4,6 +4,7 @@ My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to co
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Devan G | Mark Day School | Electrical Engineering | Rising 8th Grader |
+
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
   
 # Final Milestone
