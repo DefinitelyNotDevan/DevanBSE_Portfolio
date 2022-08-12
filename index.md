@@ -40,6 +40,7 @@ My first milestone was assembling my arm and connecting it to my Arduino. I reci
 # Useful Links and Tips
 
 <a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing"> Go to Drive File </a>
+
 Tips:
 Use a different screwdriver than the one that came in the kit.
 Be careful when taking out the acrylic parts from the sheet.
