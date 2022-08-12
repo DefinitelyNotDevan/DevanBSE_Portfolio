@@ -1,5 +1,5 @@
 # Phone Controlled Robot Arm
-My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to controll it and has a claw. It uses bluetooth to allow the phone to communicate with Arduino through an app.
+My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to control it and has a claw. It uses bluetooth to allow the phone to communicate with Arduino through an app.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
