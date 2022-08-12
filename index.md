@@ -7,10 +7,10 @@ My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to co
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
-![IMG_0426](https://user-images.githubusercontent.com/87206622/184409431-4d6d157d-695f-4fee-aa54-be399c346d1a.jpg)
+<img src="IMG_0426.jpg" width="200" height="400" />
 
 # Project Picture
-![IMG_0635](https://user-images.githubusercontent.com/87206622/184409756-3c6c1048-adfc-406e-bf99-c5e930b15119.jpg)
+<img src="IMG_0635" width="200" height="400" />
 
 # Project Video 
 <iframe width="690" height="388.125" src="https://www.youtube.com/embed/geb_Qh8xRIo" title="Devan Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
