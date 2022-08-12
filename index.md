@@ -32,11 +32,14 @@ My first milestone was assembling my arm and connecting it to my Arduino. I reci
 
 # Bill of Materials
 
-
+| **Item** | **Quanity** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Lavfin Robot Arm Kit | 1 | 35 USD | <a href="https://www.amazon.com/LAFVIN-Acrylic-Mechanical-Compatible-Tutorial/dp/B07ZYZVNY4"> Amazon </a> 
+| Moto G Pure| 1 | 60 USD | <a href="https://www.amazon.com/Tracfone-Motorola-moto-Pure-32GB/dp/B09NWDJQ78/ref=sr_1_5?keywords=moto+g+pure&qid=1660325878&sr=8-5"> Amazon </a>
 
 # Useful Links and Tips
 
-<a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing "> Go to Drive File </a>
+<a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing"> Go to Drive File </a>
 Tips:
 Use a different screwdriver than the one that came in the kit.
 Be careful when taking out the acrylic parts from the sheet.
