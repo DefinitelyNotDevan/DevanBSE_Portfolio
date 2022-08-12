@@ -37,6 +37,10 @@ My first milestone was assembling my arm and connecting it to my Arduino. I reci
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/87206622/184410020-41efab7a-2dd6-400e-b4e9-afbd8034f72f.png)
 
+# App
+
+<a href="RoboArmv7(9).apk"> DOWNLOAD APP </a>
+
 # Code
 
 ```Arduino
