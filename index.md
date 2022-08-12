@@ -16,9 +16,8 @@ My final milestone was my modification. I choose to make my app better so that t
 My second milestone was controlling my arm with my app. One of the challenges I faced while completing this milestone was that the phone that I received has andriod 11 but the app that came with the kit was ment for Android 10. I ended up making my own app using MIT App Inventor which solved the errors that I encountered. It would send characters to the arduino which would then interpret them and initate the motor correspondingly. However this app was still in the testing mode so all of the controls are quite jerky. My next step is my modifications.
 
 <iframe width="690" height="388.125" src="https://www.youtube.com/embed/o-gyQRcRt54" title="Devan G Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-# First Milestone
-  
 
+# First Milestone
 My first milestone was assembling my arm and connecting it to my Arduino. I recieved my pieces in the Lafvin 4DOF Smart Robot Mechanical Arm Kit and then built them using the guide that came with the kit. I had some trouble with screwing in screws into the servo flaps and screwing in lock nuts but I solved it by using a different screwdriver than what was in the box and also using a wrench to keep the lock nut in place while I screwed it in. Eventually I finished assembling my arm except that when I was getting the parts out of the kit, one of the parts broke so currently my claw is disconected from the rest of my arm. My next step is to connect my arm to bluetooth and then connect it to my phone.
 
 <iframe width="690" height="388.125" src="https://www.youtube.com/embed/DGngI1tAAQ4" title="Devan G Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
