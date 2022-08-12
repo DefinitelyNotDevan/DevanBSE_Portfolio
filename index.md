@@ -30,8 +30,18 @@ My first milestone was assembling my arm and connecting it to my Arduino. I reci
 
 <iframe width="690" height="388.125" src="https://www.youtube.com/embed/DGngI1tAAQ4" title="Devan G Milestone 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Bill of Materials
+
+
+
 # Useful Links and Tips
 
+<a href="https://drive.google.com/drive/folders/1t8ZgGRvJrYYbfawNBiJ6xqhWS9MYxiCA?usp=sharing "> Go to Drive File </a>
+Tips:
+Use a different screwdriver than the one that came in the kit.
+Be careful when taking out the acrylic parts from the sheet.
+Don't be discouraged.
+Look up tutorials if you are stuck.
 
 # Schematics
 
