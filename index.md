@@ -53,7 +53,7 @@ Look up tutorials if you are stuck.
 
 # App
 
-<a href="RoboArmv7(9).apk"> DOWNLOAD APP </a>
+<a href="https://drive.google.com/file/d/1ETSv9KrbHGWk9k7-pq5Kp8rx9XUdQWC4/view?usp=sharing"> Go to Drive File </a>
 
 # Code
 
