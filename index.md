@@ -7,7 +7,7 @@ My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to co
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
-<img src="IMG_0426.jpg" width="200" height="400" />
+<img src="IMG_0426.jpg" width="400" height="400" />
 
 # Project Picture
 <img src="IMG_0635.jpg" width="200" height="400" />
