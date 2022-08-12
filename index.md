@@ -49,7 +49,7 @@ Look up tutorials if you are stuck.
 
 # Schematics
 
-<img src="heh.jpg" width="400" height="400" />
+<img src="heh.jpg" width="600" height="400" />
 
 # App
 
