@@ -10,7 +10,7 @@ My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to co
 <img src="IMG_0426.jpg" width="200" height="400" />
 
 # Project Picture
-<img src="IMG_0635" width="200" height="400" />
+<img src="IMG_0635.jpg" width="200" height="400" />
 
 # Project Video 
 <iframe width="690" height="388.125" src="https://www.youtube.com/embed/geb_Qh8xRIo" title="Devan Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
