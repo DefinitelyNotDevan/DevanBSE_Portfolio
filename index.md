@@ -8,14 +8,14 @@ My project is the Phone Controlled Robot Arm. This 3 joint arm uses servos to co
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was my modification. I choose to make my app better so that the controls wouldn't be as jerky. I tried to approach this in many ways such as using a clock. This however did not work because it would just get stuck in a loop. My second way of making my app better was sliders. Originally, I was going to send the slider location and the character for the motor to rotate but it ended up not working because the arduino couldn't interpret it. I fixed this by rounding the thumb position and sending it in a 1 byte number along with rewiring the HC-06 bluetooth module and changing my arduino code.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+<iframe width="690" height="388.125" src="https://www.youtube.com/embed/HeM0xD3lTdw" title="Devan G Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was controlling my arm with my app. One of the challenges I faced while completing this milestone was that the phone that I received has andriod 11 but the app that came with the kit was ment for Android 10. I ended up making my own app using MIT App Inventor which solved the errors that I encountered. It would send characters to the arduino which would then interpret them and initate the motor correspondingly. However this app was still in the testing mode so all of the controls are quite jerky. My next step is my modifications.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+<iframe width="690" height="388.125" src="https://www.youtube.com/embed/o-gyQRcRt54" title="Devan G Milestone 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 # First Milestone
   
 
