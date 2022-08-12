@@ -49,7 +49,7 @@ Look up tutorials if you are stuck.
 
 # Schematics
 
-<img src="Screenshot(20)" width="300" height="400" />
+<img src="heh.png" width="300" height="400" />
 
 # App
 
